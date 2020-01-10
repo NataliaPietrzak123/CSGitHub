@@ -3,3 +3,4 @@ App.config
 *.csproj
 Properties/
 obj/
+bin/

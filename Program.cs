@@ -8,6 +8,7 @@ namespace ConsoleApp2
 		{
 			Console.WriteLine("Hello World!");
 			Console.WriteLine("Nanananananana na naana");
+			Console.WriteLine("Uwaga Uwaga nowa zmiana na stronie");
 		}
 	}
 }

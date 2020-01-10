@@ -1,0 +1,5 @@
+﻿#Tutaj wystepuje wszystko czego nie bedziemy śledzić
+App.config
+*.csproj
+Properties/
+obj/
